@@ -1,0 +1,1 @@
+The *SP Build* is a mod of  *Super Smash Bros. Brawl* that retains its slower, floaty gameplay while focusing on incoorporating competitively-focused tweaks. This includes tweaks that cut out anti-competitive measures within *Brawl*, and is to include new features that maintain a sense of competitive minimalism.
